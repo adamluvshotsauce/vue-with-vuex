@@ -1,6 +1,6 @@
-# vue-cli
+# Vue with Vuex
 
-> A Vue.js project
+> An example project using state management with Vuex.
 
 ## Build Setup
 
